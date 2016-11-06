@@ -1,0 +1,17 @@
+body {
+	 font-family: Helvetica, sans-serif;
+}
+table {
+	 border-spacing: 10px;
+	 border-collapse: collapse;
+}
+tr#header {
+	 background-color: rgb(100,110,139);
+	 color: white;
+}
+tr#odd {
+	 background-color: rgb(223,225,231);
+}
+tr#even {
+	 background-color: rgb(238,239,242);
+}
